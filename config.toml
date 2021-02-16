@@ -1,19 +1,18 @@
-baseurl = "http://example.org/"
+baseurl = "https://cottonflex.netlify.app/"
 languageCode = "en-us"
 title = "CottonFlex"
 theme = "hugo-cards"
-
 paginate = 6
 
 [params]
   builtBy = "CottonFlex"
   defaultImage = "cotton_flex.png"
 
-  facebook = ""
-  quora = ""
   email = "contatocottonflex@gmail.com"
   instagram = "https://instagram.com"
   whatsapp = "https://www.whatsapp.com/"
+  facebook = ""
+  quora = ""
 
   fbLikeBox = ""
   fbAppId = ""
@@ -27,4 +26,4 @@ paginate = 6
 
   [params.copyright]
      name = "CottonFlex"
-     link = "https://example.com"
+     link = "https://cottonflex.netlify.app/"
