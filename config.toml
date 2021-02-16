@@ -2,7 +2,7 @@ baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "CottonFlex"
 theme = "hugo-cards"
-themesDir = "../"
+
 paginate = 6
 
 [params]
