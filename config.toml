@@ -1,0 +1,30 @@
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "CottonFlex"
+theme = "hugo-cards"
+themesDir = "../.."
+paginate = 6
+
+[params]
+  builtBy = "CottonFlex"
+  defaultImage = "cotton_flex.png"
+
+  facebook = ""
+  quora = ""
+  email = "contatocottonflex@gmail.com"
+  instagram = "https://instagram.com"
+  whatsapp = "https://www.whatsapp.com/"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  custom_css = ["css/custom.css"]
+
+  [params.copyright]
+     name = "CottonFlex"
+     link = "https://example.com"
