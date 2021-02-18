@@ -7,7 +7,7 @@ permalink: /sobre/
 
 
 
-**Sobre Construção.**
+**Empresa de elasticos, localizado em São Paulo.**
 
 <!-- Place this tag where you want the button to render. -->
 

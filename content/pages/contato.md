@@ -4,7 +4,7 @@ title: Contato
 permalink: /contato/
 ---
 
-Visit [my site](https://bool.netlify.com)
+Email: contatocottonflex@gmail.com
 
-Insert your contact details or a contact form here.
+WhatsApp: N/A
 
