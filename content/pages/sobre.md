@@ -7,7 +7,7 @@ permalink: /sobre/
 
 
 
-**Empresa de elasticos, localizado em São Paulo.**
+Empresa de elástico, localizado em São Paulo.
 
 <!-- Place this tag where you want the button to render. -->
 

@@ -6,12 +6,12 @@ paginate = 6
 
 [params]
   builtBy = "CottonFlex"
-  defaultImage = "cotton_flex.png"
-  siteLogo = "logo_cotton_flex.jpg"
+  defaultImage = "panflet.jpg"
+ 
 
   email = "contatocottonflex@gmail.com"
-  instagram = "https://instagram.com"
-  whatsapp = "https://www.whatsapp.com/"
+  instagram = "https://www.instagram.com/cottonflexelasticos/"
+  whatsapp = "+55 11 94603-2627"
   facebook = ""
   quora = ""
 

@@ -4,7 +4,9 @@ title: Contato
 permalink: /contato/
 ---
 
-Email: contatocottonflex@gmail.com
+- ✉️ *Email:*  contatocottonflex@gmail.com
 
-WhatsApp: N/A
+- 📷 *Instagram:*  instagram.com/cottonflexelasticos
+
+- 📞 *WhatsApp:*  55 11 94603-2627
 

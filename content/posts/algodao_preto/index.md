@@ -1,7 +1,7 @@
 ---
 title:  "Elastico Branco"
 date:   2021-02-15
-img: "cotton_flex.png"
+img: "panflet.jpg"
 categories: [linha, branco]
 author: "CottonFlex"
 ---
